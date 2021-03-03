@@ -23,7 +23,8 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-version = "3.4.4"
+
+version = "4.1.1"
 
 project.extra["PluginName"] = "iPowerfighter Plugin"
 project.extra["PluginDescription"] = "Illumine - Powerfighter plugin"
